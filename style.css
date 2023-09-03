@@ -98,3 +98,7 @@ body {
 .info p:first-child {
     font-weight: bold;
 }
+
+.info p:nth-child(2) {
+    font-weight: lighter;
+}
