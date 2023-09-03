@@ -20,3 +20,28 @@ body {
 .main-card {
     box-shadow: 0px -5px 10px 0px rgba(0, 0, 0, 0.5);
 }
+
+.container {
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: arial;
+    font-size: 24px;
+    margin-top: 15%;
+    margin-left: 35%;
+    width: 440px;
+    height: 10%;
+    border-radius: 30px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.main-card image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+}
