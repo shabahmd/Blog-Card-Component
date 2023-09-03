@@ -45,3 +45,28 @@ body {
     align-items: center;
     border-radius: 30px;
 }
+.Tech {
+    font-size: 10px;
+    color: white;
+    display: inline-block;
+    background-color: rgba(255, 110, 19, 255);
+    padding-left: 2%;
+    height: 30px;
+    width: 20%;
+    border-radius: 30px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.Text-bold {
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.Text-fit {
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
